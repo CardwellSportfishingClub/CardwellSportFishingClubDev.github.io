@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Cardwell Sport Fishing Club</title>
+    <link>cardwellsportfishingclubdev.github.io/</link>
+    <description>Recent content in Home on Cardwell Sport Fishing Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="cardwellsportfishingclubdev.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Barra Bonanza</title>
+      <link>cardwellsportfishingclubdev.github.io/events/barra-bonanza/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>cardwellsportfishingclubdev.github.io/events/barra-bonanza/</guid>
+      <description>A competition that appeals to anglers from Cairns to the coal mines. The Barra Bonanza was launched by the Cardwell Sportfishing Club (CSC) in 2007 to help attract visitors to Cardwell. Initially planned to coincide with the opening of the Barra season in February, torrential rains, flooded roads and the threat of cyclones played havoc with the first three events.
+In 2011, just 24 hours before the start of the competition Cyclone Yasi blew in taking with it the contents of the CSC clubhouse, and the $20,000 prize pool.</description>
+    </item>
+    
+    <item>
+      <title>Catch Ten</title>
+      <link>cardwellsportfishingclubdev.github.io/events/catch-ten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>cardwellsportfishingclubdev.github.io/events/catch-ten/</guid>
+      <description>The fishing competition for September is about catching ten fish of any species.
+To participate in this event members must send nominations through to info@cardwellsportfishingclub.com or text to 0429 427 590 to enable registration for the event.
+All participants will need to download and fill in a registration form together with the rules (see below) and then send the completed form and registration fee of $20 to info@cardwellsportfishingclub.com.
+  Rules</description>
+    </item>
+    
+  </channel>
+</rss>
